@@ -21,10 +21,12 @@
 
 
 
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=40px>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/mohamed-yasser-6869291a3/](https://www.linkedin.com/feed/)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Yasser](https://github.com/)" height="30" width="40" /></a>
-
-
+  <a href="https://github.com/fathy20" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub Profile" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/feed/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+  </a>
+</p>
